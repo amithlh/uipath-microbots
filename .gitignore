@@ -1,0 +1,8 @@
+#uipath .gitignore file
+**/.local/
+**/.objects/
+**/.settings/
+**/.tmh/
+**/.entities/
+**/.settings
+/.vs/slnx.sqlite
